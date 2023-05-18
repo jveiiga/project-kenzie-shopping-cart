@@ -23,7 +23,10 @@
   - Classes e Seletores
   - DOM, LOOP e Métodos 
   
-  <h2 align="center"><a target=blank href="https://jveiiga.github.io/project-kenzie-shopping-cart/">Clique para ver o projeto desenvolvido.</a></h2>
+## Desafios
+  Nesse projeto o desafio foi utilizar laços de repetição para renderização dinâmica e soma de todos os produtos que estão no carrinho. 
+  
+<h2 align="center"><a target=blank href="https://jveiiga.github.io/project-kenzie-shopping-cart/">Clique para ver o projeto desenvolvido.</a></h2>
 
 ## Instalação
 
