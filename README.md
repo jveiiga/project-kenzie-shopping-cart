@@ -23,7 +23,7 @@
   - Classes e Seletores
   - DOM, LOOP e Métodos 
   
-  <h2 align="center"><a target=blank href="https://trello.com/invite/b/zJYEwq3C/ATTI13d3ce4f549cc18a9c70eedb6ac94b6b635A103A/kenzie-schedule">Clique para ver o projeto final desenvolvido.</a></h2>
+  <h2 align="center"><a target=blank href="https://jveiiga.github.io/project-kenzie-shopping-cart/">Clique para ver o projeto final desenvolvido.</a></h2>
 
 ## Instalação
 
